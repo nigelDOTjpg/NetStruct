@@ -1,0 +1,2 @@
+# NetStruct
+hello.
